@@ -177,7 +177,6 @@ void displayOrders()
 
 int main()
 {
-    cout<<"hello"<<endl;
     int choice;
     do
     {
